@@ -2,8 +2,9 @@
 ![Siddique Ali Khan Banner](https://github.com/siddiquealikhan/siddiquealikhan/blob/main/Siddique%20Ali%20Khan.png?raw=true)
 
 ## About me
-Motivated and technically skilled Computer Science undergraduate with a strong foundation in **Java Full Stack Development**, specializing in building scalable, end-to-end web applications using **Spring Boot, React.js, MySQL, and RESTful APIs**.  
-Experienced in designing robust backend architectures, developing responsive front-end interfaces, and integrating databases and APIs with clean, maintainable code.
+I am a motivated and technically skilled Computer Science undergraduate with a strong foundation in Java Full Stack Development. I specialize in building scalable, end-to-end web applications using Spring Boot, React.js, MySQL, and RESTful APIs.
+
+I enjoy designing robust backend architectures, developing responsive front-end interfaces, and integrating databases and APIs with clean, maintainable code. I am passionate about solving real-world problems through technology and continuously improving my skills to stay aligned with modern software development practices.
 
 ---
 
