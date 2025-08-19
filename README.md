@@ -1,6 +1,7 @@
 # Hi, I am Siddique
+![Siddique Ali Khan Banner](https://github.com/siddiquealikhan/siddiquealikhan/blob/main/Siddique%20Ali%20Khan.png?raw=true)
 
-## Professional Summary
+## About me
 Motivated and technically skilled Computer Science undergraduate with a strong foundation in **Java Full Stack Development**, specializing in building scalable, end-to-end web applications using **Spring Boot, React.js, MySQL, and RESTful APIs**.  
 Experienced in designing robust backend architectures, developing responsive front-end interfaces, and integrating databases and APIs with clean, maintainable code.
 
