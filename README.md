@@ -51,8 +51,8 @@ Experienced in designing robust backend architectures, developing responsive fro
 ---
 
 ## GitHub Analytics
-![Siddique's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddiquealikhan&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddiquealikhan&layout=compact&theme=radical)
+![Siddique's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddiquealikhan&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddiquealikhan&layout=compact&theme=transparent)
 
 ---
 
